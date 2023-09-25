@@ -8,7 +8,7 @@ import tools
 
 def main():
     #Main function
-    tools.hello_world()
+    tools.decompress_file("alchemist.zip", ".")
 
 
 
